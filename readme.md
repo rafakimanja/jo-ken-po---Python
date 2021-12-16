@@ -1,0 +1,1 @@
+projeto de pedra, papel, tesoura, em Python
